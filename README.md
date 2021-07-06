@@ -2,18 +2,18 @@
 <h1 align="center">CL Calculator</h1>
 
 <p align="center">
- <a href="#objetivo">Objetivo</a> •
+ <a href="#goal">Goal</a> •
  <a href="#roadmap">Roadmap</a> • 
- <a href="#tecnologias">Tecnologias</a> • 
- <a href="#contribuicao">Contribuição</a> • 
- <a href="#licenc-a">Licença</a> • 
- <a href="#autor">Autor</a>
+ <a href="#technologies">Technologies</a> • 
+ <a href="#contribution">Contribution</a> • 
+ <a href="#license">License</a> • 
+ <a href="#author">Author</a>
 </p>
 
-## Descrição do projeto
-<p align="center">Este projeto visa criar uma calculadora básica em Dart e Flutter</p>
+## Project description
+<p align="center"This project aims to create a calculator in Dart and Flutter</p>
 
-## Linguagens utilizadas
+## Stack
 <h1 align="center">
     <a href="https://dart.dev/">🔗 Dart</a>
 </h1>
@@ -21,38 +21,30 @@
     <a href="https://flutter.dev/">🔗 Flutter</a>
 </h1>
 
-## Status do Projeto
+## Project status
 <h4 align="center"> 
-	🚧 Em construção...  🚧
+	🚧 Work in progress...  🚧
 </h4>
 
 ## Features
 
-- [] Calculadora
+- [] Calculator
 
-### Pré-requisitos
+### Prerequisites
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Before start, you will need to install the following tools in your machine:
+[Git](https://git-scm.com), [Flutter](https://flutter.dev/docs/get-started/install). 
+Moreove is good to have an editor like [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Running the Back End (servidor)
 
 ```bash
-# Clone este repositório
-$ git clone <https://github.com/tgmarinho/nlw1>
+# Clone this repo
+$ git clone <https://github.com/juanudk/CL-Calculator.git>
 
-# Acesse a pasta do projeto no terminal/cmd
-$ cd nlw1
+# Access the folder via terminal/cmd
+$ cd cl-calculator
 
-# Vá para a pasta server
-$ cd server
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
-
-# O servidor inciará na porta:3333 - acesse <http://localhost:3333>
+# Run the flutter app
+$ flutter run
 ```
